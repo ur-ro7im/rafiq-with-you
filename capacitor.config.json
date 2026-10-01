@@ -1,0 +1,6 @@
+{
+  "appId": "com.rafiq.app",
+  "appName": "Rafiq",
+  "webDir": "dist",
+  "server": { "androidScheme": "https" }
+}
